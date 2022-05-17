@@ -1,0 +1,12 @@
+.nav{
+    font-size: 25px;
+    padding: 80px;
+    background-color:#002;
+}
+body{
+    background-color:#005;
+}
+.margem{
+    margin-right: 700px;
+    border-radius: 50%
+}
