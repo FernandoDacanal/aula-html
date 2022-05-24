@@ -1,14 +1,17 @@
 .nav{
     font-size: 25px;
-    padding: 80px;
+    padding: 20px;
     background: rgb(0,42,255);
     background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(0,0,0,1) 100%);
 }
+.txt_nav{
+    text-align: end;
+}
 body{
-    background-color:rgb(0, 5, 37);    
+    background-color:rgb(0, 5, 37);
 }
 .margem{
-    margin-right: 750px;
+    margin-right: 850px;
     border-radius: 50%
 }
 .texto{
