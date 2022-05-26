@@ -14,16 +14,15 @@ body{
     margin-right: 850px;
     border-radius: 50%
 }
-.texto{
+.lg{
     color:white;
-    font-size: 20px;
-    margin-left: 25px;
-    margin-right: 25px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left: 800px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .rotacao{
     margin-top:50px;
-    margin-left:525px
+    margin-left:300px
 }    
 .titulo{
     color:white;
@@ -38,4 +37,16 @@ body{
     margin-top: 50px;
     margin-bottom: 15px;
         
+}
+.txt_pr{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+.frm_bd{
+    margin-left: 500px;
+    margin-top: 100px;
 }
